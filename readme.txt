@@ -1,6 +1,4 @@
-111111
-22222
-33333
-22222
-566555
-66666
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has mutable index called stage.
+Git tracks changes of files.
